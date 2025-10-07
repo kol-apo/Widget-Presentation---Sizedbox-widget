@@ -17,6 +17,7 @@ A simple Flutter app showcasing the SizedBox widget for spacing and layout.
 
 ## Screenshot
 Flutter_app/Screenshot of app demo.png
+Image can be found in this file location
 
 ## Link to presentation
 https://www.canva.com/design/DAG0YJttW2E/O7AyYe1rdnMQU1n7EltRiw/edit?utm_content=DAG0YJttW2E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
