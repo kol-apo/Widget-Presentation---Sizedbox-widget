@@ -2,9 +2,9 @@
 A simple Flutter app showcasing the SizedBox widget for spacing and layout.
 
 ## Run Instructions
-1. Clone the repo.
-2. Open in VS Code or Android Studio.
-3. Run `flutter pub get`.
+1. Clone the repo
+2. Open in VS Code or Android Studio
+3. Run `flutter pub get`
 4. Press F5 or run `flutter run`
 
 ## Widget Description
