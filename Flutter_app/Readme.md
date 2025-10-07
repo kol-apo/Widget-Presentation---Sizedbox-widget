@@ -5,7 +5,7 @@ A simple Flutter app showcasing the SizedBox widget for spacing and layout.
 1. Clone the repo.
 2. Open in VS Code or Android Studio.
 3. Run `flutter pub get`.
-4. Press F5 or run `flutter run`.
+4. Press F5 or run `flutter run`
 
 ## Widget Description
 **SizedBox** provides fixed width and/or height or adds space between widgets.
