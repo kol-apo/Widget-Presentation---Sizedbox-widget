@@ -1,5 +1,4 @@
 # SizedBox Widget Demo
-
 A simple Flutter app showcasing the SizedBox widget for spacing and layout.
 
 ## Run Instructions
